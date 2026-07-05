@@ -15,11 +15,12 @@ Sou estudante de Ensino Médio Técnico em Informática no UNASP e atuo como Des
 ---
 
 ### 📈 No que estou trabalhando atualmente?
-*   Desenvolvimento de sistemas dinâmicos com visualização de dados em tempo real utilizando **Chart.js**.
-*   Aplicações integradas com bancos de dados relacionais e controle de persistência.
-
+*   **Desenvolvimento de sistemas dinâmicos** com visualização de dados em tempo real 
+*   **Desenvolvimento Web para Comércio Local:** Criação de cardápios online com exibição de produtos e formulários de pedidos integrados ao WhatsApp.
+*   **Sistemas Web:** Desenvolvimento de landing pages, sites institucionais e sistemas personalizados de gerenciamento de agendamentos.
+*   **Projetos Escolares:** Desenvolvimento de plataformas dinâmicas para eventos, como o Sistema de Leilão.
 ---
 
 ### ✉️ Vamos nos conectar?
 *   **E-mail:** robsongabriel058@gmail.com
-*   **GitHub:** [github.com/GAbriel-dot7](https://github.com/GAbriel-dot7)
+
